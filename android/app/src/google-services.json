@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047675540366",
+    "project_id": "latihan-49b61",
+    "storage_bucket": "latihan-49b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047675540366:android:f9247271d27f064c4b0adf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGuGpeH2LoChfTzQIL1J0_ZkNXM0lqvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
